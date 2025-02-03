@@ -45,4 +45,3 @@ def triangular(n):
     '''
     print("hello")
     return n * (n + 1) // 2  # Using the formula for the nth triangular number
-
