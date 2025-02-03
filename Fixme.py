@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 def factorial(n):
     '''
     Returns the product of all numbers from 1 to n.
@@ -43,5 +44,4 @@ def triangular(n):
     >>> triangular(400)
     80200
     '''
-    print("hello")
     return n * (n + 1) // 2  # Using the formula for the nth triangular number
